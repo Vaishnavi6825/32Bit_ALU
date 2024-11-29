@@ -117,7 +117,8 @@ or
 
 It will invoke the nclaunch window for functional simulation we can compile,elaborate and simulate it using Multiple Step .
 
-<img width="950" alt="exp1 1" src="https://github.com/user-attachments/assets/a2b7e2b2-436e-497f-b822-aaaaee973e26">
+![WhatsApp Image 2024-11-29 at 21 16 23_8efce853](https://github.com/user-attachments/assets/e56afc55-98ce-47cd-9239-29e6e91060f6)
+
 
 ### Fig 3: Setting Multi-step simulation
 
@@ -125,7 +126,8 @@ Select Multiple Step and then select “Create cds.lib File” as shown in below
 
 Click the cds.lib file and save the file by clicking on Save option 
 
-<img width="952" alt="exp1 2" src="https://github.com/user-attachments/assets/fdc43280-ec35-41eb-a929-cdd1cc6ccf09">
+![WhatsApp Image 2024-11-29 at 21 42 28_ea93701d](https://github.com/user-attachments/assets/0add31b6-9fe5-485b-9a46-4bb2f17a0f67)
+
 
 ### Fig 4:cds.lib file Creation
 
@@ -231,7 +233,8 @@ Steps for simulation – Run the simulation command with simulator options
 
 ## Fig 9: Design Browser window for simulation
 
-![image](https://github.com/user-attachments/assets/c0a90e47-1ec4-43f4-8f27-1a2073ce3bb8)
+![WhatsApp Image 2024-11-29 at 21 54 11_8686f447](https://github.com/user-attachments/assets/c1e13d12-dfd9-473c-877b-2a042a35bb3f)
+
 
 ## Fig 10:Simulation Waveform Window
 
