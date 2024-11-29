@@ -177,7 +177,6 @@ Left side select the file and in Tools : launch verilog compiler with current se
 
 Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation 
 
-<img width="959" alt="exp3 2" src="https://github.com/user-attachments/assets/fedbd664-c7cc-4177-b88d-284b7846bcb1">
 
 ### Fig 7: Compiled database in worklib
 
@@ -213,7 +212,10 @@ Outputs: Elaborate database updated in mapped library if successful, generates r
 
 After elaboration the file will come under snapshot. Select the test bench and simulate it.
 
-<img width="959" alt="exp3 3" src="https://github.com/user-attachments/assets/af43f3c9-4f79-4fe1-acf9-6a836298c8e6">
+![WhatsApp Image 2024-11-29 at 21 43 02_915baa4a](https://github.com/user-attachments/assets/09d77a84-93a5-4927-a161-9948c20aaf0e)
+
+![WhatsApp Image 2024-11-29 at 21 28 03_5602fe77](https://github.com/user-attachments/assets/1e7e704a-06a1-4a81-8eb0-46ddda52bea6)
+
 
 ## Fig 8: Elaboration Launch Option
 
